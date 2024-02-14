@@ -1,0 +1,16 @@
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\Customer.csproj.AssemblyReference.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\Customer.csproj.GenerateResource.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\Customer.csproj.CoreCompileInputs.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources

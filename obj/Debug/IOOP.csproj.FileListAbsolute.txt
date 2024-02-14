@@ -1,0 +1,261 @@
+D:\ZzZ\New folder\IOOP\IOOP\bin\Debug\myDB.mdf
+D:\ZzZ\New folder\IOOP\IOOP\bin\Debug\myDB_log.ldf
+D:\ZzZ\New folder\IOOP\IOOP\bin\Debug\IOOP.exe.config
+D:\ZzZ\New folder\IOOP\IOOP\bin\Debug\IOOP.exe
+D:\ZzZ\New folder\IOOP\IOOP\bin\Debug\IOOP.pdb
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.Form1.resources
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.exe
+D:\ZzZ\New folder\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+C:\Users\PC 1\Desktop\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\Marcu\Downloads\IOOP (7)\IOOP\IOOP\obj\Debug\IOOP.pdb
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\bin\Debug\myDB.mdf
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\bin\Debug\myDB_log.ldf
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\bin\Debug\IOOP.exe.config
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\bin\Debug\IOOP.exe
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\bin\Debug\IOOP.pdb
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.exe
+D:\ZzZ\IOOP (7) - Copy\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.pdb
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\myDB.mdf
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\myDB_log.ldf
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.exe.config
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.exe
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\bin\Debug\IOOP.pdb
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.exe
+D:\ZzZ\IOOP (7) - Copy1\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\PC 1\Desktop\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.pdb
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB.mdf
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB_log.ldf
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe.config
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.pdb
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.exe
+C:\Users\Marcu\Downloads\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.pdb
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB.mdf
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB_log.ldf
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe.config
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.pdb
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.exe
+D:\ZzZ\IOOP (9)\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.pdb
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB.mdf
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\bin\Debug\myDB_log.ldf
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe.config
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.exe
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\bin\Debug\IOOP.pdb
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.AssemblyReference.cache
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1aLogin.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1bRcpHP.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1cRcpReg.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1dRcpServ.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1eRcpPay.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm1fRcpReceipt.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2aTechHP.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2bViewServRq.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2cServCpRp.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm2dModServRec.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3aCusHP.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3bCusCS.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3cCusHY.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm3dCusUP.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4aAdmnHP.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4bAdmnRgstr.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.frm4cAdmnInc.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.Properties.Resources.resources
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.GenerateResource.cache
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.csproj.CoreCompileInputs.cache
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.exe
+D:\ZzZ\Group_23_IOOP\IOOP ASSGN\IOOP\IOOP\obj\Debug\IOOP.pdb
